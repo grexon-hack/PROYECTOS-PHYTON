@@ -1,7 +1,7 @@
 #codicional if
 
 #cajero automatico
-saldo=2000
+saldo=3000
 print("1.-ingreso de dinero")
 print("2.-retirar dinero")
 print("3.-mostrar dinero")
